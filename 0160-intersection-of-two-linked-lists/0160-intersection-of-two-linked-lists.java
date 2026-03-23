@@ -48,6 +48,7 @@ public class Solution
             t1=t1.next;
             t2=t2.next;
         }
-        return t1;
+        ListNode NumbeR=t1;
+        return NumbeR;
     }
 }
