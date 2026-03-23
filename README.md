@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0141-linked-list-cycle/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
