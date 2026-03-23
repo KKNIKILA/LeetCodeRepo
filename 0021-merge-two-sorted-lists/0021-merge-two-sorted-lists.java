@@ -16,9 +16,9 @@ class Solution
         {
             return null;
         }
-        ListNode dummy = new ListNode(0);
+        ListNode NumbeR = new ListNode(0);
         ListNode c1=list1,c2=list2;
-        ListNode temp=dummy;
+        ListNode temp=NumbeR;
         while((c1!=null) && (c2!=null))
         {
             if(c1.val>c2.val)
@@ -41,6 +41,6 @@ class Solution
         {
             temp.next=c2;
         }
-        return dummy.next;
+        return NumbeR.next;
     }
 }
