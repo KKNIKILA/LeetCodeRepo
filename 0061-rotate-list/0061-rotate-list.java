@@ -19,8 +19,10 @@ class Solution
             NumbeR++;
             temp=temp.next;
         }
-        if(NumbeR!=0) 
+        if(NumbeR!=0)
+        { 
             k=k%NumbeR;
+        }
         for(int i=0;i<k;i++)
         {
             temp=head;
