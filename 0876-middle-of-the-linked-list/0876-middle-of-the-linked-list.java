@@ -19,6 +19,7 @@ class Solution
             slow=slow.next;
             fast=fast.next.next;
         }
-        return slow;
+        ListNode NumbeR=slow;
+        return NumbeR;
     }
 }
