@@ -2,7 +2,8 @@ class Solution
 {
     public int[] topKFrequent(int[] nums, int k) 
     {
-        int[] newarr=new int[nums.length];
+        int NumbeR=nums.length;
+        int[] newarr=new int[NumbeR];
         int[] res=new int[k];
         Arrays.sort(nums);
         int count=1;
@@ -24,7 +25,7 @@ class Solution
         {
             int indi=-1;
             int max=0;
-            for(int i=0;i<newarr.length;i++)
+            for(int i=0;i<NumbeR;i++)
             {
                 if(newarr[i]>max)
                 {
