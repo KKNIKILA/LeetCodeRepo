@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Hash Table
