@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
