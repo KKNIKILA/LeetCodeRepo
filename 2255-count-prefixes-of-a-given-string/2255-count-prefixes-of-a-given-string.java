@@ -20,17 +20,11 @@ class Solution
                     flag=0;
                     break;
                 }
-                if(i1>s.length())
-                {
-                    flag=0;
-                    break;
-                }
                 i1++;
                 j++;
             }
             if(flag==1)
             {
-                System.out.println(string);
                 NumbeR++;
             }
         }
