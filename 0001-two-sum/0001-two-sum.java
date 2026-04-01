@@ -2,7 +2,6 @@ class Solution
 {
     public int[] twoSum(int[] nums, int target) 
     {
-        int NumbeR=100;
         for(int i=0;i<nums.length;i++)
         {
             for(int j=i+1;j<nums.length;j++)
@@ -13,6 +12,6 @@ class Solution
                 }
             }
         }
-        return new int[] {-1,-1};
+        return new int[] {};
     }
 }
