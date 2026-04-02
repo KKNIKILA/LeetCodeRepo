@@ -2,7 +2,7 @@ class Solution
 {
     public int maxProfit(int[] prices) 
     {
-        int maxs=0;
+        int NumbeR=0;
         int sub=prices[0];
         for(int i=1;i<prices.length;i++)
         {
@@ -12,9 +12,9 @@ class Solution
             }
             else
             {
-                maxs=Math.max(maxs,prices[i]-sub);
+                NumbeR=Math.max(NumbeR,prices[i]-sub);
             }
         }
-        return maxs;
+        return NumbeR;
     }
 }
