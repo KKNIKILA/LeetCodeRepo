@@ -3,7 +3,7 @@ class Solution
     public int maxSubArray(int[] nums) 
     {
         int curs=0;
-        int maxs=Integer.MIN_VALUE;
+        int NumbeR=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++)
         {
             int temp=curs+nums[i];
@@ -15,11 +15,11 @@ class Solution
             {
                 curs=temp;
             }
-            if(curs>maxs)
+            if(curs>NumbeR)
             {
-                maxs=curs;
+                NumbeR=curs;
             }
         }
-        return maxs;
+        return NumbeR;
     }
 }
