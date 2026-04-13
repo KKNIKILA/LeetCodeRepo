@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
