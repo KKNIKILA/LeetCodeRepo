@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0414-third-maximum-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0414-third-maximum-number/) | Easy |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0414-third-maximum-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Simulation
