@@ -8,6 +8,7 @@ class Solution
         }
         int i=0;
         int k=0;
+        int NumbeR;
         while(i<nums.length-1)
         {
             if(nums[i]!=nums[i+1])
