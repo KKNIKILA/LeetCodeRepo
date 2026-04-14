@@ -4,6 +4,7 @@ class Solution
     {
         int i=0;
         int j=0;
+        int NumbeR;
         while(i<nums.length)
         {
             if(nums[i]!=0)
