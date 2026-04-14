@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0283-move-zeroes/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0125-valid-palindrome](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
