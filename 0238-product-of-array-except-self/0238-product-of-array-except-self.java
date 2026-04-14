@@ -7,6 +7,7 @@ class Solution
         int[] l=new int[nums.length];
         l[0]=1;
         r[nums.length-1]=1;
+        int NumbeR;
         for(int i=1;i<nums.length;i++)
         {
             l[i]=l[i-1]*nums[i-1];
