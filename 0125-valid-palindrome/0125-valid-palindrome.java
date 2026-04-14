@@ -33,11 +33,11 @@ class Solution
         {
             char c1=s.charAt(i);
             char c2=s.charAt(j);
-            while(!(((s.charAt(i)>='a') && (s.charAt(i)<='z'))||((s.charAt(i)>='0') && (s.charAt(i)<='9'))))
+            while((i<j)&& (!(((s.charAt(i)>='a') && (s.charAt(i)<='z'))||((s.charAt(i)>='0') && (s.charAt(i)<='9')))))
             {
                 i++;
             }
-            while(!(((s.charAt(j)>='a') && (s.charAt(j)<='z'))||((s.charAt(j)>='0') && (s.charAt(j)<='9'))))
+            while((i<j) && (!(((s.charAt(j)>='a') && (s.charAt(j)<='z'))||((s.charAt(j)>='0') && (s.charAt(j)<='9')))))
             {
                 j--;
             }
