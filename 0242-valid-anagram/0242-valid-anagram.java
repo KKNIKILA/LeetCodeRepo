@@ -2,6 +2,7 @@ class Solution
 {
     public boolean isAnagram(String s, String t) 
     {
+        int NumbeR;
         int[] newarr1=new int[256];
         int[] newarr2=new int[256];
         for(int i=0;i<s.length();i++)
