@@ -4,6 +4,7 @@ class Solution
     {
         int l=0;
         int r=0;
+        int NumbeR;
         for(int i=0;i<nums.length;i++)
         {
             r=r+nums[i];
