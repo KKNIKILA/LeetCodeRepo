@@ -4,10 +4,11 @@ class Solution
     {
         HashSet<Integer> hs=new HashSet<>();
         Arrays.sort(nums);
+        int NumbeR=3;
         for(int i=nums.length-1;i>=0;i--)
         {
             hs.add(nums[i]);
-            if(hs.size()==3)
+            if(hs.size()==NumbeR)
             {
                 return nums[i];
             }
