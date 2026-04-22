@@ -2,10 +2,9 @@ class Solution
 {
     public int strStr(String haystack, String needle) 
     {
-        int NumbeR;
         int i=0;
         int j=0;
-        while(i<haystack.length() && j<needle.length())
+        while((i<haystack.length()) && (j<needle.length()))
         {
             if(haystack.charAt(i)==needle.charAt(j))
             {
