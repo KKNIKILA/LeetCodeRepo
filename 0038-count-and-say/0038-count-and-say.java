@@ -6,7 +6,6 @@ class Solution
         String string="1";
         for(int i1=1;i1<n;i1++)
         {
-            System.out.println(string);
             int count=1;
             String res="";
             for(int i=0;i<string.length()-1;i++)
