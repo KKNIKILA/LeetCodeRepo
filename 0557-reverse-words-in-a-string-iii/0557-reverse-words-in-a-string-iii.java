@@ -2,6 +2,7 @@ class Solution
 {
     public String reverseWords(String s) 
     {
+        int NumbeR;
         String string="";
         String s1="";
         for(int i=0;i<s.length();i++)
