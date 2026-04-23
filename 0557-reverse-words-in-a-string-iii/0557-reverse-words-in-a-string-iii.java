@@ -2,20 +2,22 @@ class Solution
 {
     public String reverseWords(String s) 
     {
-        String[] newarr=s.split(" ");
         String string="";
-        for(int i=0;i<newarr.length;i++)
+        String s1="";
+        for(int i=0;i<s.length();i++)
         {
-            for(int i1=newarr[i].length()-1;i1>=0;i1--)
+            if(s.charAt(i)!=' ')
             {
-                string=string+newarr[i].charAt(i1);
+                s1=s.charAt(i)+s1;
             }
-            if(i==newarr.length-1)
+            else
             {
-                continue;
+                string=string+s1;
+                s1="";
+                string=string+' ';
             }
-            string=string+' ';
         }
+        string=string+s1;
         return string;
     }
 }
