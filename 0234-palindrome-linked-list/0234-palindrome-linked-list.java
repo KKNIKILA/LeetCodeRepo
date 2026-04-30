@@ -12,6 +12,7 @@ class Solution
 {
     public boolean isPalindrome(ListNode head) 
     {
+        int NumbeR;
         ListNode temp=head;
         ArrayList<Integer> al=new ArrayList<>();
         while(temp!=null)
