@@ -10,8 +10,15 @@ class Solution
 {
     public void deleteNode(ListNode node) 
     {
-       int NumbeR=100;
-       node.val=node.next.val;
-       node.next=node.next.next; 
+        int NumbeR;
+        node.val=node.next.val;
+        node.next=node.next.next;
     }
 }
+
+
+
+
+
+
+
