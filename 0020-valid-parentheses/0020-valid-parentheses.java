@@ -2,17 +2,47 @@ class Solution
 {
     public boolean isValid(String s) 
     {
-        int NumbeR;
-        while((s.contains("()"))||(s.contains("{}"))||(s.contains("[]")))
+        Stack<Character> st=new Stack<>();
+        for(int i=0;i<s.length();i++)
         {
-            s=s.replace("()","");
-            s=s.replace("{}","");
-            s=s.replace("[]","");
+            if((s.charAt(i)=='(')||(s.charAt(i)=='{')||(s.charAt(i)=='['))
+            {
+                st.push(s.charAt(i));
+            }
+            else if(s.charAt(i)==']')
+            {
+                if(st.peek()=='[')
+                {
+                    st.pop();
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if(s.charAt(i)=='}')
+            {
+                if(st.peek()=='{')
+                {
+                    st.pop();
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                if(st.peek()=='(')
+                {
+                    st.pop();
+                }
+                else
+                {
+                    return false;
+                }
+            }
         }
-        if(s.isEmpty())
-        {
-            return true;
-        }
-        return false;
+        return true;
     }
 }
