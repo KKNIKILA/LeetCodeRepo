@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0058-length-of-last-word/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
