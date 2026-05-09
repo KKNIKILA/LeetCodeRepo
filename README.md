@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -152,10 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
