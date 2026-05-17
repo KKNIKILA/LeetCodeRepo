@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0414-third-maximum-number/) | Easy |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -219,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
