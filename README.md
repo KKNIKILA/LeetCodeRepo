@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
