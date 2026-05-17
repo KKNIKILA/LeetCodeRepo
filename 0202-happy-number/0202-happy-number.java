@@ -2,10 +2,7 @@ class Solution
 {
     public boolean isHappy(int n) 
     {
-        if(n==1)
-        {
-            return true;
-        }
+        int NumbeR;
         while(n>9)
         {
             int sum=0;
