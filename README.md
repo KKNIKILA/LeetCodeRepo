@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0509-fibonacci-number/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
