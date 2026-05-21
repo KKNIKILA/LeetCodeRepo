@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0283-move-zeroes/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
