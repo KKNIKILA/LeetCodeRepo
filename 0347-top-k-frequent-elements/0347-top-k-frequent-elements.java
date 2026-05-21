@@ -2,42 +2,35 @@ class Solution
 {
     public int[] topKFrequent(int[] nums, int k) 
     {
-        int NumbeR=nums.length;
-        int[] newarr=new int[NumbeR];
-        int[] res=new int[k];
-        Arrays.sort(nums);
-        int count=1;
-        for(int i=0;i<nums.length-1;i++)
+        HashMap<Integer,Integer> hs=new HashMap<>();
+        for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]==nums[i+1])
+            if(!hs.containsKey(nums[i]))
             {
-                count++;
+                hs.put(nums[i],0);
             }
-            else
-            {
-                newarr[i]=count;
-                count=1;
-            }
+            hs.put(nums[i],hs.get(nums[i])+1);
         }
-        newarr[nums.length-1]=count;
-        int j=0;
-        for(int i1=0;i1<k;i1++)
+        List<Integer>[] bucket=new List[nums.length+1];
+        for(int key:hs.keySet())
         {
-            int indi=-1;
-            int max=0;
-            for(int i=0;i<NumbeR;i++)
+            int frequency=hs.get(key);
+            if(bucket[frequency]==null)
             {
-                if(newarr[i]>max)
-                {
-                    max=newarr[i];
-                    indi=i;
-                }
+                bucket[frequency]=new ArrayList<>();
             }
-            if(indi!=-1)
+            bucket[frequency].add(key);
+        }
+        int[] res=new int[k];
+        int NumbeR=0;
+        for(int i=nums.length;(i>=0) && (NumbeR<k);i--)
+        {
+            if(bucket[i]!=null)
             {
-                res[j]=nums[indi];
-                newarr[indi]=0;
-                j++;
+                for(Integer in:bucket[i])
+                {
+                    res[NumbeR++]=in;
+                }
             }
         }
         return res;
