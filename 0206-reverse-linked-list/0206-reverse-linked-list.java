@@ -13,6 +13,7 @@ class Solution
 {
     public ListNode reverseList(ListNode head) 
     {
+        int NumbeR;
         if(head==null || head.next==null)
         {
             return head;
