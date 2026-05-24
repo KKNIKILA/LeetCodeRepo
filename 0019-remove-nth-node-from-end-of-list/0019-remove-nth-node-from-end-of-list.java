@@ -12,6 +12,7 @@ class Solution
 {
     public ListNode removeNthFromEnd(ListNode head, int n) 
     {
+        int NumbeR;
         ListNode dummy=new ListNode(0);
         ListNode temp1=dummy;
         ListNode temp2=dummy;
