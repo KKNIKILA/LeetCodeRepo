@@ -13,6 +13,7 @@ public class Solution
 {
     public boolean hasCycle(ListNode head) 
     {
+        int NumbeR;
         ListNode s=head;
         ListNode f=head;
         if(f==null)
