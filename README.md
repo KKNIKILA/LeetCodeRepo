@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0704-binary-search/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
