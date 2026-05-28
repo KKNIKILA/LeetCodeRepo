@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0704-binary-search/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
@@ -276,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0078-subsets/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
