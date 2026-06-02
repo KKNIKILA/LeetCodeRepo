@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -292,4 +294,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
