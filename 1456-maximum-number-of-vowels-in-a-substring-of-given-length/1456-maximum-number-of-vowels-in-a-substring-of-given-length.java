@@ -6,6 +6,7 @@ class Solution
     }
     public int maxVowels(String s, int k) 
     {
+        int NumbeR;
         int max=0;
         int count=0;
         for(int we=0;we<s.length();we++)
