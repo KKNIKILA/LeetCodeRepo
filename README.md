@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -250,11 +252,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
