@@ -12,6 +12,7 @@ class Solution
 {
     public int[] nextLargerNodes(ListNode head) 
     {
+        int NumbeR;
         ListNode prev=null;
         ListNode curr=head;
         ListNode next=null;
