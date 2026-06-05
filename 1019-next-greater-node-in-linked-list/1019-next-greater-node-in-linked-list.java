@@ -29,12 +29,6 @@ class Solution
             prev=curr;
             curr=next;
         }
-        temp=prev;
-        while(temp!=null)
-        {
-            System.out.println(temp.val+" ");
-            temp=temp.next;
-        }
         int index=count-1;
         int[] newarr=new int[count]; 
         Stack<Integer> s=new Stack<>();
