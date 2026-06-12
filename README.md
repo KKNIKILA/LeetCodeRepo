@@ -314,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0064-minimum-path-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
