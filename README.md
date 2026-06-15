@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0183-customers-who-never-order/) | Easy |
+| [0577-employee-bonus](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0596-classes-with-at-least-5-students/) | Easy |
