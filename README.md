@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
