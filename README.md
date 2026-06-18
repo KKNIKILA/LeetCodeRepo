@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1251-average-selling-price/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
