@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-next-greater-node-in-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
