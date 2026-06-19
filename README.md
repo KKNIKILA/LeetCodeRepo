@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1084-sales-analysis-iii](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1251-average-selling-price/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
