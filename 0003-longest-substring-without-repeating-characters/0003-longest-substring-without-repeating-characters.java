@@ -4,6 +4,7 @@ class Solution
     {
         int j=0;
         int max=0;
+        int NumbeR;
         int[] arr=new int[256];
         for(int i=0;i<s.length();i++)
         {
@@ -18,6 +19,3 @@ class Solution
         return max;
     }
 }
-
-
-//NumbeR
