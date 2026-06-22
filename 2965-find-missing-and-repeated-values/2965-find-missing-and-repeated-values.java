@@ -4,6 +4,7 @@ class Solution
     {
         int[] newarr=new int[2];
         int ij=0;
+        int NumbeR;
         boolean[] anti=new boolean[grid.length*grid[0].length+1];
         for(int i=0;i<grid.length;i++)
         {
