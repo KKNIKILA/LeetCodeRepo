@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -352,4 +354,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
