@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0509-fibonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,4 +363,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0011-container-with-most-water/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
