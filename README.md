@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
