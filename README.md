@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0509-fibonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0011-container-with-most-water/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
