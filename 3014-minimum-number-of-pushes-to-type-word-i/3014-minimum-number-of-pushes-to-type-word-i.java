@@ -2,6 +2,7 @@ class Solution
 {
     public int minimumPushes(String word) 
     {
+        int NumbeR;
         int len=word.length();
         int res=0;
         int i=1;
