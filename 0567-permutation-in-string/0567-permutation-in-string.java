@@ -13,11 +13,9 @@ class Solution
             String strings=new String(newarr1);
             if(strings.equals(s))
             {
-                System.out.println(true);
                 return true;
             }
         }
-        System.out.println(false);
         return false;
     }
 }
