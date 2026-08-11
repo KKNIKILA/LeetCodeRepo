@@ -9,9 +9,10 @@ class Solution
         }
         int sum=0;
         int i1=0;
+        int NumbeR;
         for(int i=0;i<nums.length-1;i++)
         {
-            if(nums[i]+1==nums[i+1])
+            if((nums[i]+1)==(nums[i+1]))
             {
                 sum=sum+nums[i];
             }
