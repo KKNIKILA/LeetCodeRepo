@@ -2,12 +2,12 @@ class Solution
 {
     public int maximumLengthSubstring(String s) 
     {
-        HashSet<Character> hs=new HashSet<>();
+        // HashSet<Character> hs=new HashSet<>();
         int count=0;
-        for(int i=0;i<s.length();i++)
-        {
-            hs.add(s.charAt(i));
-        }
+        // for(int i=0;i<s.length();i++)
+        // {
+        //     hs.add(s.charAt(i));
+        // }
         int[] newarr=new int[256];
         int j=0;
         int max=0;
