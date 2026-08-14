@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-count-prefixes-of-a-given-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
