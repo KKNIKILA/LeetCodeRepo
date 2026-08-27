@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
+| [4024-nearest-available-drone](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/4024-nearest-available-drone/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [4024-nearest-available-drone](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/4024-nearest-available-drone/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
