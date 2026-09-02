@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0064-minimum-path-sum/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Database
 | Problem Name | Difficulty |
