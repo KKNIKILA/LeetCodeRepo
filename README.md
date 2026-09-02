@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/0205-isomorphic-strings/) | Easy |
