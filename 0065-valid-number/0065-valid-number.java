@@ -5,6 +5,7 @@ class Solution
         boolean e=false;
         boolean digit=false;
         boolean dot=false;
+        int NumbeR;
         for(int i=0;i<s.length();i++)
         {
             char ch=s.charAt(i);
