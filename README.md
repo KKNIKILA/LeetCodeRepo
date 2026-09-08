@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/KKNIKILA/LeetCodeRepo/tree/main/3870-count-commas-in-range/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
