@@ -2,40 +2,29 @@ class Solution
 {
     public String reverseStr(String s, int k) 
     {
-        char[] newarr=s.toCharArray();
         int i=0;
         int j=k-1;
+        String string="";
         while(j<s.length())
         {
-            int ogi=i;
-            int ogj=j;
-            while(i<j)
+            for(int y=j;y>=i;y--)
             {
-                char temp=newarr[i];
-                newarr[i]=newarr[j];
-                newarr[j]=temp;
-                i++;
-                j--;
+                string=string+s.charAt(y);
             }
-            i=ogi+2*k;
-            j=ogj+2*k;
+            for(int y=j+1;y<i+2*k && y<s.length();y++)
+            {
+                string=string+s.charAt(y);
+            }
+            i=i+2*k;
+            j=j+2*k;
         }
         if(i<s.length())
         {
             j=s.length()-1;
-            while(i<j)
+            for(int y=j;y>=i;y--)
             {
-                char temp=newarr[i];
-                newarr[i]=newarr[j];
-                newarr[j]=temp;
-                i++;
-                j--;
+                string=string+s.charAt(y);
             }
-        }
-        String string="";
-        for(int i1=0;i1<s.length();i1++)
-        {
-            string=string+newarr[i1];
         }
         return string; 
     }
